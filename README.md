@@ -6,4 +6,10 @@
     pip install numpy pandas seaborn matplotlib streamlit
 
 # Running App
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
+
+# Link Dashboard
+Link: https://lim-dashboard-bike.streamlit.app/
+
+# Screenshoot Dashboard
+![ss](https://github.com/LimitMax/FInal-Task-Dicoding-DA/assets/38920294/0bddd5e6-031c-4fd4-a0c4-1d125f48da5a)
