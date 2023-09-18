@@ -8,7 +8,7 @@ import streamlit as st
 # LOAD DATA
 pd.set_option('display.max_columns', None)
 
-df = pd.read_csv('dayv1.csv')
+df = pd.read_csv('dashboard/dayv1.csv')
 
 # SIDEBAR
 with st.sidebar:
